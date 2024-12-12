@@ -1,0 +1,32 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
+h1{ 
+    font-size: 50px;
+    color: rgb(4, 64, 4);
+}
+img{
+    width: 20%;
+    height: 20%;
+}
+figcaption{
+    font-style: italic;
+    color: black;
+}
+h3{
+    text-decoration: solid;
+    color: brown;
+    text-decoration: underline;
+}
+p{
+    font-size: medium; 
+    font-family: Cambria;
+    color: black;
+}
+h5{
+    font-size: medium;
+    text-decoration: solid;
+    color: brown;}
+footer{
+    color:rgb(4, 64, 4);}
